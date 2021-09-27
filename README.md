@@ -3,15 +3,16 @@
 **Angaben gemäß § 5 TMG**
 
 Lucas Braun
+
 Johann-Widmann-Straße 15
+
 71069 Sindelfingen
 
 **Kontakt:**
 
 Telefon: 0177 6453455
-E-Mail: lucasbraun@tuta.io
 
-lucasvictorbraun.github.io verwendet keine cookies.
+E-Mail: lucasbraun@tuta.io
 
 ## FOSS alternative to Linktree
 
